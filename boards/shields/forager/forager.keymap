@@ -128,8 +128,8 @@
 
 &mt {
     quick-tap-ms = <100>;
-    flavor = "balanced";
-    tapping-term-ms = <170>;
+    flavor = "tap-preferred";
+    tapping-term-ms = <120>;
 };
 
 &sk {
